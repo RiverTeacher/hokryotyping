@@ -27,6 +27,7 @@ const highscoreDisplay = document.querySelector('#highscore');
 
 const words = [
   '我慢やぞ我慢',
+  'もういいよじゃあ',
   'あ〜シマシマの靴下履いてるー',
   'お前待ちやぞ',
   'そういうことなんですね〜',
